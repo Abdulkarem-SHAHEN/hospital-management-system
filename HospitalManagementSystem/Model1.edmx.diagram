@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="dd77483993c2484ab1e65c6655d0cef9" Name="Diagram1" ZoomLevel="78">
+        <EntityTypeShape EntityType="jrkModel.account" Width="3.375" PointX="0.5" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="jrkModel.asset" Width="1.5" PointX="6.5" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="jrkModel.doctor" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="jrkModel.patient" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="jrkModel.staff" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="jrkModel.topmgmt" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

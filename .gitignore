@@ -1,0 +1,19 @@
+# ---- Visual Studio ----
+.vs/
+*.user
+*.suo
+
+# ---- Build output ----
+[Bb]in/
+[Oo]bj/
+
+# ---- NuGet packages (restored automatically) ----
+packages/
+
+# ---- Uploaded profile pictures ----
+HospitalManagementSystem/Uploads/*
+!HospitalManagementSystem/Uploads/.gitkeep
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
